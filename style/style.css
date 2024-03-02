@@ -156,3 +156,7 @@ section {
     background: transparent;
     color: var(--text-color);
 }
+
+.sample {
+    background-color: red;
+}
